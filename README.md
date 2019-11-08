@@ -8,7 +8,7 @@ Andrea Stöcker
 
 2019-11-08
 
-## Ort
+## Location
 
 Berlin
 
